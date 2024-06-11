@@ -14,7 +14,7 @@ Saya seorang pengembang web dan mobile dengan keahlian dalam HTML, CSS, JavaScri
 Proyek ini adalah aplikasi web untuk mengelola laporan anggaran. Dibangun menggunakan HTML, CSS, dan JavaScript untuk frontend, serta menggunakan database untuk menyimpan data anggaran. Proyek ini membantu pengguna dalam mengelola dan melacak pengeluaran mereka dengan mudah.
 
 ## 📈 Statistik GitHub
-![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=kangjoyeuse-github&show_icons=true&theme=radical)
+![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=kangjoyeuse&show_icons=true&theme=radical)
 
 ## 🌐 Temukan Saya di
 - LinkedIn: [Muhammad Khoerudin](link-ke-linkedin)
